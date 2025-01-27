@@ -17,7 +17,8 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<!--<sonar.login>squ_bc1df5f0240b8802fe2a445faabc368095666187</sonar.login>-->
+		<sonar.organization>crusher95574</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
 
